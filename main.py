@@ -1,7 +1,7 @@
-"""One Line, One Laugh entry: writes a single funny line (87 chars) to /output/entry.txt."""
+"""One Line, One Laugh entry: writes a single funny line (124 chars) to /output/entry.txt."""
 import os
 
-LINE = "I finally organized my photos by date, and now I know exactly when I stopped being fun."
+LINE = "My barber asked if I wanted it shorter on the sides. I said yes, and now my ID photo looks like a witness-protection update."
 
 def main():
     os.makedirs("/output", exist_ok=True)
